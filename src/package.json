@@ -1,0 +1,14 @@
+{
+  "version": "0.0.0",
+  "name": "TypeScript Playground Export",
+  "description": "TypeScript playground exported Sandbox",
+  "dependencies": {
+    "@types/express": "4.17.11",
+    "@types/reflect-metadata": "0.1.0",
+    "body-parser": "1.19.0",
+    "express": "4.17.1",
+    "helmet": "4.4.1",
+    "reflect-metadata": "0.1.13",
+    "typescript": "4.1.3"
+  }
+}
